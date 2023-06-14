@@ -1,8 +1,5 @@
 <template>
-    <main-layout>
-        <v-card text="Hello there"></v-card>
-        <v-btn> Button </v-btn>
-    </main-layout>
+    <main-layout> </main-layout>
 </template>
 
 <script setup>
