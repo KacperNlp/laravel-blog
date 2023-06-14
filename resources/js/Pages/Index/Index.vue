@@ -1,6 +1,7 @@
 <template>
     <main-layout>
-        <h1>Hello there!</h1>
+        <v-card text="Hello there"></v-card>
+        <v-btn> Button </v-btn>
     </main-layout>
 </template>
 
